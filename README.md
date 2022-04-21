@@ -94,7 +94,7 @@
 
 ## 🚩 Flow chart
 
-![스크린샷 2022-04-06 오후 7 49 16](https://user-images.githubusercontent.com/82128525/161958772-08892389-1214-426d-bd94-9130ee475ea9.png)
+![플로우](https://user-images.githubusercontent.com/93845398/164434642-d6421ad8-e374-4f1f-8b00-9376e86311e9.png)
 
 ---
 
@@ -120,4 +120,8 @@
 
 ## 🛠 아키텍처
 ![image](https://user-images.githubusercontent.com/93845398/164433188-fc88973c-aad2-4108-b873-91ab996e58d3.png)
+
+---
+
+## 💾 팀 노션(https://pattern-beluga-3d8.notion.site/INDUSTRIAL-S-P-Y-36ed6c5d31be499f848c175df5652247)
 
