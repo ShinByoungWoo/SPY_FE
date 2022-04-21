@@ -123,5 +123,6 @@
 
 ---
 
-## 💾 팀 노션(https://pattern-beluga-3d8.notion.site/INDUSTRIAL-S-P-Y-36ed6c5d31be499f848c175df5652247)
+## 💾 팀 노션
+(https://pattern-beluga-3d8.notion.site/INDUSTRIAL-S-P-Y-36ed6c5d31be499f848c175df5652247)
 
