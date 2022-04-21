@@ -56,6 +56,7 @@
 <img src="https://user-images.githubusercontent.com/82128525/161918874-bd6a8fdb-0548-4bbb-9a51-869d4ddfab2a.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/82128525/161918892-7b1efd19-2ebe-482f-bd39-30145a85e313.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/82128525/161918897-db1cbd27-bf0c-48f2-9640-3781daffed11.png" width="300" height="200">
+   
    <img src="https://user-images.githubusercontent.com/82128525/162191481-4f5b0f76-91fd-461f-8422-c11f31166ee9.png" width="300" height="200">
    <img src="https://user-images.githubusercontent.com/82128525/162191469-7fc150d9-7a75-4f8f-8077-94265094bf21.png" width="300" height="200">
    <img src="https://user-images.githubusercontent.com/82128525/162191477-b8e571f3-30eb-4982-a964-aa75be1beef6.png" width="300" height="200">
@@ -116,3 +117,7 @@
 ## 🔥 [프론트엔드 트러블 슈팅 상세보기](https://pattern-beluga-3d8.notion.site/23911097ceab446e8690d09e85cddc2b)
 
 ---
+
+## 🛠 아키텍처
+![image](https://user-images.githubusercontent.com/93845398/164433188-fc88973c-aad2-4108-b873-91ab996e58d3.png)
+
